@@ -8,3 +8,8 @@
 [I 01:46:47.232 NotebookApp] Adapting to protocol v5.1 for kernel 7401d1d4-710d-48b9-ac58-ce45975f35d4
 [I 01:46:56.943 NotebookApp] Starting buffering for 7401d1d4-710d-48b9-ac58-ce45975f35d4:6b6612a9033046b388a086f5ef5867aa
 [I 01:46:57.355 NotebookApp] Kernel shutdown: 7401d1d4-710d-48b9-ac58-ce45975f35d4
+[I 01:51:56.009 NotebookApp] Kernel started: 0b24a394-0a0c-481e-aff5-939c206738d4
+[I 01:51:57.184 NotebookApp] Adapting to protocol v5.1 for kernel 0b24a394-0a0c-481e-aff5-939c206738d4
+[I 01:52:20.815 NotebookApp] Saving file at /ManifoldLearning/jupyter_notebook/DataCheckAndSampleSelectionFromGAMA.ipynb
+[I 01:52:24.822 NotebookApp] Starting buffering for 0b24a394-0a0c-481e-aff5-939c206738d4:c5a7e41493b4438b8601f8de9d2da5f2
+[I 01:52:25.526 NotebookApp] Kernel shutdown: 0b24a394-0a0c-481e-aff5-939c206738d4
