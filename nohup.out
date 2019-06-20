@@ -1,0 +1,10 @@
+[W 01:46:13.359 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 01:46:13.364 NotebookApp] Serving notebooks from local directory: /home/syoshida/JupyterWorkingFolder
+[I 01:46:13.364 NotebookApp] The Jupyter Notebook is running at:
+[I 01:46:13.364 NotebookApp] http://localhost:9999/
+[I 01:46:13.364 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 01:46:32.493 NotebookApp] 302 GET / (::1) 0.95ms
+[I 01:46:46.056 NotebookApp] Kernel started: 7401d1d4-710d-48b9-ac58-ce45975f35d4
+[I 01:46:47.232 NotebookApp] Adapting to protocol v5.1 for kernel 7401d1d4-710d-48b9-ac58-ce45975f35d4
+[I 01:46:56.943 NotebookApp] Starting buffering for 7401d1d4-710d-48b9-ac58-ce45975f35d4:6b6612a9033046b388a086f5ef5867aa
+[I 01:46:57.355 NotebookApp] Kernel shutdown: 7401d1d4-710d-48b9-ac58-ce45975f35d4
