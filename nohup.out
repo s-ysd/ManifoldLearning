@@ -13,3 +13,16 @@
 [I 01:52:20.815 NotebookApp] Saving file at /ManifoldLearning/jupyter_notebook/DataCheckAndSampleSelectionFromGAMA.ipynb
 [I 01:52:24.822 NotebookApp] Starting buffering for 0b24a394-0a0c-481e-aff5-939c206738d4:c5a7e41493b4438b8601f8de9d2da5f2
 [I 01:52:25.526 NotebookApp] Kernel shutdown: 0b24a394-0a0c-481e-aff5-939c206738d4
+[I 01:59:02.229 NotebookApp] Kernel started: a1ff276e-ff2c-4299-b84d-e0dfa2ee97ec
+[I 01:59:03.410 NotebookApp] Adapting to protocol v5.1 for kernel a1ff276e-ff2c-4299-b84d-e0dfa2ee97ec
+[I 01:59:14.524 NotebookApp] Starting buffering for a1ff276e-ff2c-4299-b84d-e0dfa2ee97ec:1f5cf5672f3e4ca5ab2b7002769d6731
+[I 01:59:14.936 NotebookApp] Kernel restarted: a1ff276e-ff2c-4299-b84d-e0dfa2ee97ec
+[I 01:59:16.355 NotebookApp] Adapting to protocol v5.1 for kernel a1ff276e-ff2c-4299-b84d-e0dfa2ee97ec
+[I 01:59:16.356 NotebookApp] Restoring connection for a1ff276e-ff2c-4299-b84d-e0dfa2ee97ec:1f5cf5672f3e4ca5ab2b7002769d6731
+[I 01:59:16.356 NotebookApp] Replaying 10 buffered messages
+[I 01:59:40.980 NotebookApp] Kernel interrupted: a1ff276e-ff2c-4299-b84d-e0dfa2ee97ec
+[I 02:01:12.359 NotebookApp] Saving file at /ManifoldLearning/jupyter_notebook/DataCheckAndSampleSelectionFromGAMA.ipynb
+[I 02:02:54.863 NotebookApp] Starting buffering for a1ff276e-ff2c-4299-b84d-e0dfa2ee97ec:1f5cf5672f3e4ca5ab2b7002769d6731
+[I 02:02:55.879 NotebookApp] Kernel shutdown: a1ff276e-ff2c-4299-b84d-e0dfa2ee97ec
+[I 02:02:59.052 NotebookApp] Shutting down on /api/shutdown request.
+[I 02:02:59.052 NotebookApp] Shutting down 0 kernels
