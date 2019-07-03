@@ -26,3 +26,51 @@
 [I 02:02:55.879 NotebookApp] Kernel shutdown: a1ff276e-ff2c-4299-b84d-e0dfa2ee97ec
 [I 02:02:59.052 NotebookApp] Shutting down on /api/shutdown request.
 [I 02:02:59.052 NotebookApp] Shutting down 0 kernels
+[W 14:27:05.167 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 14:27:05.171 NotebookApp] Serving notebooks from local directory: /home/syoshida/JupyterWorkingFolder
+[I 14:27:05.171 NotebookApp] The Jupyter Notebook is running at:
+[I 14:27:05.171 NotebookApp] http://localhost:9999/
+[I 14:27:05.171 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:27:07.903 NotebookApp] 302 GET / (::1) 1.14ms
+[I 14:27:13.882 NotebookApp] Kernel started: b2f4241c-9267-4412-a64e-27b731f31c2c
+[I 14:27:15.065 NotebookApp] Adapting to protocol v5.1 for kernel b2f4241c-9267-4412-a64e-27b731f31c2c
+[I 14:28:33.287 NotebookApp] Starting buffering for b2f4241c-9267-4412-a64e-27b731f31c2c:df6baa5f8a4541ba99cfb27b2c62c427
+[I 14:28:33.706 NotebookApp] Kernel restarted: b2f4241c-9267-4412-a64e-27b731f31c2c
+[I 14:28:35.112 NotebookApp] Adapting to protocol v5.1 for kernel b2f4241c-9267-4412-a64e-27b731f31c2c
+[I 14:28:35.114 NotebookApp] Restoring connection for b2f4241c-9267-4412-a64e-27b731f31c2c:df6baa5f8a4541ba99cfb27b2c62c427
+[I 14:28:35.114 NotebookApp] Replaying 10 buffered messages
+[I 14:29:14.087 NotebookApp] Saving file at /ManifoldLearning/jupyter_notebook/DataCheckAndSampleSelectionFromGAMA.ipynb
+[I 14:31:14.333 NotebookApp] Saving file at /ManifoldLearning/jupyter_notebook/DataCheckAndSampleSelectionFromGAMA.ipynb
+[I 14:32:14.210 NotebookApp] Kernel started: c039d428-5d17-4029-9451-093af7229f81
+[I 14:32:17.252 NotebookApp] Adapting to protocol v5.1 for kernel c039d428-5d17-4029-9451-093af7229f81
+[I 14:34:14.273 NotebookApp] Saving file at /ManifoldLearning/jupyter_notebook/DataCheckAndSampleSelectionFromGAMAKcorrection.ipynb
+[W 14:44:05.116 NotebookApp] WebSocket ping timeout after 119922 ms.
+[I 14:44:10.121 NotebookApp] Starting buffering for b2f4241c-9267-4412-a64e-27b731f31c2c:df6baa5f8a4541ba99cfb27b2c62c427
+[W 14:44:17.254 NotebookApp] WebSocket ping timeout after 119771 ms.
+[I 14:44:22.256 NotebookApp] Starting buffering for c039d428-5d17-4029-9451-093af7229f81:cfd84cd852a74de6be8084502df2d09a
+[I 14:55:18.874 NotebookApp] 302 GET / (::1) 0.88ms
+[I 14:56:17.853 NotebookApp] 302 GET / (::1) 0.77ms
+[I 14:56:17.910 NotebookApp] 302 GET / (::1) 0.78ms
+[I 14:56:17.966 NotebookApp] 302 GET / (::1) 0.75ms
+[I 14:57:39.722 NotebookApp] 302 GET / (::1) 0.90ms
+[I 14:57:46.036 NotebookApp] 302 GET / (::1) 0.80ms
+[I 14:57:46.169 NotebookApp] 302 GET / (::1) 0.86ms
+[I 14:57:50.750 NotebookApp] 302 GET / (::1) 0.89ms
+[I 14:57:50.843 NotebookApp] 302 GET / (::1) 0.92ms
+[I 14:58:19.212 NotebookApp] 302 GET / (::1) 0.86ms
+[I 14:58:26.852 NotebookApp] 302 GET / (::1) 0.86ms
+[I 14:58:29.753 NotebookApp] 302 GET / (::1) 0.90ms
+[I 14:58:29.826 NotebookApp] 302 GET / (::1) 0.76ms
+[I 14:58:42.786 NotebookApp] Kernel started: 0bf11123-5602-4898-bf84-6ded0880ecd0
+[I 14:58:45.873 NotebookApp] Adapting to protocol v5.1 for kernel 0bf11123-5602-4898-bf84-6ded0880ecd0
+[I 14:58:53.055 NotebookApp] Starting buffering for 0bf11123-5602-4898-bf84-6ded0880ecd0:8daca4f0075f430b98931a6b7fd3e4bd
+[I 14:58:53.487 NotebookApp] Kernel restarted: 0bf11123-5602-4898-bf84-6ded0880ecd0
+[I 14:58:56.768 NotebookApp] Adapting to protocol v5.1 for kernel 0bf11123-5602-4898-bf84-6ded0880ecd0
+[I 14:58:56.770 NotebookApp] Restoring connection for 0bf11123-5602-4898-bf84-6ded0880ecd0:8daca4f0075f430b98931a6b7fd3e4bd
+[I 14:58:56.770 NotebookApp] Replaying 10 buffered messages
+[I 14:59:48.176 NotebookApp] Starting buffering for 0bf11123-5602-4898-bf84-6ded0880ecd0:8daca4f0075f430b98931a6b7fd3e4bd
+[I 14:59:49.366 NotebookApp] Kernel shutdown: 0bf11123-5602-4898-bf84-6ded0880ecd0
+[I 14:59:50.513 NotebookApp] Shutting down on /api/shutdown request.
+[I 14:59:50.514 NotebookApp] Shutting down 2 kernels
+[I 14:59:51.016 NotebookApp] Kernel shutdown: c039d428-5d17-4029-9451-093af7229f81
+[I 14:59:56.079 NotebookApp] Kernel shutdown: b2f4241c-9267-4412-a64e-27b731f31c2c
