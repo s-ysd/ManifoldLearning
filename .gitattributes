@@ -1,0 +1,2 @@
+data/SDSSDataForManifold.pickle filter=lfs diff=lfs merge=lfs -text
+data/rcsed.fits filter=lfs diff=lfs merge=lfs -text
